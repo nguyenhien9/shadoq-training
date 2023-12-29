@@ -12,13 +12,15 @@ function App() {
       <Button className="bg-emerald-400" size="32">
         Update
       </Button>
-      <Button className="bg-blue-800" size="18">
+      <Button className="bg-blue-800" size="17">
         Confirm
       </Button>
       <Button className="bg-green-900" size="12">
         Upload
       </Button>
-      <Button className="bg-slate-400">Back</Button>
+      <Button className="bg-slate-400" size="19">
+        Back
+      </Button>
       <Button className="bg-orange-400">Link</Button>
       <Button className="bg-yellow-400">Info</Button>
     </div>
